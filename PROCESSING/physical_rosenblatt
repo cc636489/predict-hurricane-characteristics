@@ -1,0 +1,1 @@
+gfortran physical_rosenblatt.f90 -L/workspace/Library/quadpack/lib -lquadpack -lm 

@@ -1,0 +1,1 @@
+gfortran rosenblatt_training.f90 -L/workspace/Library/quadpack/lib -lquadpack -lm 

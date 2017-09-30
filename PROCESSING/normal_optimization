@@ -1,0 +1,1 @@
+gfortran normal_optimization.f90 -I/workspace/Library/nlopt-2.4.2/include -L/workspace/Library/nlopt-2.4.2/lib -lnlopt -lm

@@ -1,0 +1,1 @@
+gfortran weight_training.f90 -I/workspace/Library/nlopt_242_gcc/install/include -L/workspace/Library/nlopt_242_gcc/install/lib -lnlopt -lm 
