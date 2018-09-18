@@ -11,7 +11,7 @@ The JPMOS approach combines the following three inputs:
 
 And formulated an annual exceedence probability function, based on the previous three inputs.
 <p align="center">
-<img width="600" height="280" src="/doc/Annual_occurrence_rate_probability.png">
+<img width="600" height="240" src="/doc/Annual_occurrence_rate_probability.png">
 </p>
 
 This probability function basically can be formulated by asking the following three sub-questions:
@@ -116,6 +116,6 @@ After solving the optimization problem, we obtained 5 optimized hurricane charac
 </p>
 
 <p align="center">
-<img width="440" height="300" src="/doc/Comparable_result_1.png"> <img width="440" height="150" src="/doc/Comparable_result_2.png">
+<img width="440" height="300" src="/doc/Comparable_result_1.png"> <img width="440" height="180" src="/doc/Comparable_result_2.png">
 </p>
 
