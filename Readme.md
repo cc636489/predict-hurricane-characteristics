@@ -10,7 +10,7 @@ The JPMOS approach combines the following three inputs:
 * The hurricane-generated surge η(x) at the site of interest, given the hurricane characteristics.
 
 And formulated an annual exceedence probability function, based on the previous three inputs.
-<p align="center">
+<p align="left">
 <img width="600" height="240" src="/doc/Annual_occurrence_rate_probability.png">
 </p>
 
