@@ -112,10 +112,10 @@ This characteristics is of great importance. We formulated a log-likelihood cost
 
 After solving the optimization problem, we obtained 5 optimized hurricane characteristics, which is comparable to FEMA annual report.
 <p align="center">
-<img width="600" height="440"   src="/doc/Optimization_process.png">
+<img width="600" height="340"   src="/doc/Optimization_process.png">
 </p>
 
 <p align="center">
-<img width="440" height="300" src="/doc/Comparable_result_1.png"> <img width="440" height="300" src="/doc/Comparable_result_2.png">
+<img width="440" height="300" src="/doc/Comparable_result_1.png"> <img width="440" height="240" src="/doc/Comparable_result_2.png">
 </p>
 
